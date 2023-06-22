@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Sia albatros",
+      "email": "sia.live@gmail.com",
+      "phone": "7456321564",
+      "address": "New york",
+      "id": 3
+    },
+    {
+      "name": "Billi Ellis",
+      "email": "bili@gmail.com",
+      "phone": "4856321548",
+      "address": "paris",
+      "id": 4
+    },
+    {
+      "name": "Alan walker",
+      "email": "alan@gmail.com",
+      "phone": "8456136648",
+      "address": "Melbourne",
+      "id": 5
+    },
+    {
+      "name": "John Wick",
+      "email": "johnw@gmail.com",
+      "phone": "1234567890",
+      "address": "Continental Hotel",
+      "id": 7
+    },
+    {
+      "name": "Abhi",
+      "email": "goneabhi@gmail.com",
+      "phone": "9894644646",
+      "address": "surat",
+      "id": 8
+    }
+  ]
+}
